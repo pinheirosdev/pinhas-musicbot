@@ -4,6 +4,7 @@ import yt_dlp
 import asyncio
 import os
 from dotenv import load_dotenv
+from keep_alive import keep_alive
 
 load_dotenv()
 
@@ -112,4 +113,5 @@ async def sair(bot):
     else:
         await bot.send("DJ Pìnhas não está em um canal de voz.")
 
+keep_alive()
 botCmd.run(TOKEN)
