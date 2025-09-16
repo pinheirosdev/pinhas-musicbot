@@ -13,7 +13,7 @@
 
 * **[discord.py](https://discordpy.readthedocs.io/)** - A biblioteca para interagir com a API do Discord.
 * **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - Para buscar e extrair os dados de áudio do YouTube.
-* **[Flask](https://flask.palletsprojects.com/)** - Usado para criar um pequeno servidor web que mantém o bot ativo em plataformas de hospedagem.
+* **[dotenv](https://pypi.org/project/python-dotenv/)** - Utilizado para o Python ler arquivos .env no código.
 
 ## 🛠️ Como Configurar e Rodar o Projeto
 
