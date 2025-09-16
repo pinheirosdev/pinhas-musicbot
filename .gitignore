@@ -1,0 +1,10 @@
+# Arquivo de segredos
+.env
+
+# Pasta do ambiente virtual
+venv/
+__pycache__/
+
+# Arquivos de IDEs
+.vscode/
+.idea/
