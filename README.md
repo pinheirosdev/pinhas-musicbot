@@ -14,6 +14,7 @@
 * **[discord.py](https://discordpy.readthedocs.io/)** - A biblioteca para interagir com a API do Discord.
 * **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - Para buscar e extrair os dados de áudio do YouTube.
 * **[dotenv](https://pypi.org/project/python-dotenv/)** - Utilizado para o Python ler arquivos .env no código.
+* **[ffmpeg](https://www.gyan.dev/ffmpeg/builds/)** - O FFmpeg traduz o formato de aúdio entre o youtube e o discord.
 
 ## 🛠️ Como Configurar e Rodar o Projeto
 
