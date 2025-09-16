@@ -1,6 +1,9 @@
-<p align="center">
+<div align="center">
   <img width="250" height="250" alt="avatar" src="https://github.com/user-attachments/assets/27c5e884-bb12-4847-b2a5-31ac2ba5d5d8" />
-</p>
+  <h3 align="center">
+    Adicione <b>DJ Pinhas<b/> no seu servidor <a href="https://shre.ink/djpinhas-musicbot">AQUI!</a>
+  <h3/>
+</div>
 
 # 🤖 DJ PINHAS
 
