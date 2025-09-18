@@ -7,8 +7,12 @@
 
 # 🤖 DJ PINHAS
 
-> Um bot de música para servidores no Discord, desenvolvido com Python. Toca músicas buscadas diretamente do YouTube com um sistema de busca e fila.
+> _Um bot de música para servidores no Discord, desenvolvido com Python. Toca músicas buscadas diretamente do YouTube com um sistema de busca e fila._
 
+### ⚠️ Aviso
+> _Este bot foi desenvolvido para ser funcional em ambiente de desenvolvimento local. No entanto, a migração para um servidor de produção 24/7 (VPS) gera um problema na API, onde apresenta uma medida de segurança do YouTube que visa bloquear tráfego automatizado vindo de IPs de datacenters._
+> 
+> _Obs: O bot roda localmente, então ele fica online sempre que ligo a máquina para trabalhar no projeto._
 ## 🚀 Tecnologias Utilizadas
 
 * **[discord.py](https://discordpy.readthedocs.io/)** - A biblioteca para interagir com a API do Discord.
